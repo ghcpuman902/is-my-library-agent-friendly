@@ -7,22 +7,22 @@ The bar comes from [vgpu](https://github.com/vercel-labs/vgpu), the Vercel Labs 
 ## Install
 
 ```bash
-npx skills add ghcpuman902/is-my-library-agent-friendly --skill imlaf-audit
+npx skills add ghcpuman902/is-my-library-agent-friendly
 ```
 
-Listed on [skills.sh](https://skills.sh/ghcpuman902/is-my-library-agent-friendly). The installed folder is `imlaf-audit`, not a generic `audit`.
+Listed on [skills.sh](https://skills.sh/ghcpuman902/is-my-library-agent-friendly).
 
 ## Skills
 
-**imlaf-audit.** Score the target. Start from inside the library under audit, load this skill, follow `skills/imlaf-audit/SKILL.md`. Do not clone the target as a first step. Look around first.
+**is-my-library-agent-friendly.** The audit. Start from inside the library under audit, load this skill, follow `skills/is-my-library-agent-friendly/SKILL.md`. Do not clone the target as a first step. Look around first.
 
-**imlaf-improve.** Coming soon. It will take a fail or a scorecard and make the smallest change that would move that row. Not in this pack yet.
+**improve.** Coming soon. It will take a fail or a scorecard and make the smallest change that would move that row. Not in this pack yet.
 
-## What imlaf-audit gives you
+## What the audit gives you
 
 A scorecard with pass, warn, fail, n/a, or blocked, plus the three fixes that would move the score most.
 
-## Files in imlaf-audit
+## Files
 
 - `SKILL.md` workflow
 - `RUBRIC.md` criteria

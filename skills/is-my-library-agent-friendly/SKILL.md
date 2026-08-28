@@ -1,5 +1,5 @@
 ---
-name: imlaf-audit
+name: is-my-library-agent-friendly
 description: >-
   Audits whether a library, SDK, CLI tool, UI component, or MCP server is
   designed for coding agents to discover, install, use, verify, and fix
