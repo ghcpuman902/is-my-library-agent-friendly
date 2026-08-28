@@ -6,13 +6,11 @@ The bar comes from [vgpu](https://github.com/vercel-labs/vgpu), the Vercel Labs 
 
 ## Install
 
-The [skill page on skills.sh](https://skills.sh/ghcpuman902/is-my-library-agent-friendly/is-my-library-agent-friendly) uses:
-
 ```bash
-npx skills add https://github.com/ghcpuman902/is-my-library-agent-friendly --skill is-my-library-agent-friendly
+npx skills add ghcpuman902/is-my-library-agent-friendly
 ```
 
-`npx skills add ghcpuman902/is-my-library-agent-friendly` is the same install.
+This repo is the skill. Listed on [skills.sh](https://skills.sh/ghcpuman902/is-my-library-agent-friendly).
 
 ## How to run it
 
